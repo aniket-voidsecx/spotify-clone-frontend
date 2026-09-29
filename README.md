@@ -19,8 +19,7 @@ A responsive Spotify-inspired music player built using **HTML & CSS**. This proj
 * CSS
 
 #Screenshots
-
-
+![Spotify Clone](screenshot.png)
 ## 🔮 Future Improvements
 
 * User authentication
